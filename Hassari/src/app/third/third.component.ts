@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./third.component.css']
 })
 export class ThirdComponent implements OnInit {
-
+var_terzo = 'terzo';
   constructor() { }
 
   ngOnInit(): void {
